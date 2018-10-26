@@ -949,7 +949,7 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
 &lt;style&gt;
 img {
-    border.5px solid black;
+    border: 5px solid red;
 }
 &lt;/style&gt;
 '''
@@ -2472,6 +2472,11 @@ init_mathjax();
 &lt;script type="text/javascript" src="./../static/gearUtils-05.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;style&gt;
+img {
+    border: 5px solid red;
+}
+&lt;/style&gt;
 '''
 
 
