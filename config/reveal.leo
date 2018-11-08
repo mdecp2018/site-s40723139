@@ -24,6 +24,15 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181109002850.1"><vh>教學影片</vh>
+<v t="leo.20181109002916.1"><vh>教學影片內容</vh></v>
+</v>
+<v t="leo.20181109003932.1"><vh>教學影片</vh>
+<v t="leo.20181109003932.2"><vh>教學影片內容</vh></v>
+</v>
+<v t="leo.20181109004500.1" a="E"><vh>教學影片</vh>
+<v t="leo.20181109004513.1"><vh>教學影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -326,5 +335,51 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181109002850.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109002916.1">## week2
+
+### 更改網頁標題
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4RfizwB9-G0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109003932.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109003932.2">## week3
+
+### 上傳圖片及更改圖框
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a0Xjn5oT7A8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109004500.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109004513.1">## week4
+
+### 如何上傳影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MDssewmh-PA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
