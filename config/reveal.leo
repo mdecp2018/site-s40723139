@@ -21,17 +21,26 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181109002850.1"><vh>教學影片</vh>
+<v t="leo.20181109002850.1" a="E"><vh>教學影片</vh>
 <v t="leo.20181109002916.1"><vh>教學影片內容</vh></v>
 </v>
-<v t="leo.20181109003932.1"><vh>教學影片</vh>
+<v t="leo.20181109003932.1" a="E"><vh>教學影片</vh>
 <v t="leo.20181109003932.2"><vh>教學影片內容</vh></v>
 </v>
 <v t="leo.20181109004500.1" a="E"><vh>教學影片</vh>
 <v t="leo.20181109004513.1"><vh>教學影片內容</vh></v>
+</v>
+<v t="leo.20181109063924.1" a="E"><vh>教學影片</vh>
+<v t="leo.20181109063924.2"><vh>教學影片內容</vh></v>
+</v>
+<v t="leo.20181109063936.1"><vh>教學影片</vh>
+<v t="leo.20181109063936.2"><vh>教學影片內容</vh></v>
+</v>
+<v t="leo.20181109063940.1"><vh>教學影片</vh>
+<v t="leo.20181109063940.2"><vh>教學影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -380,6 +389,56 @@ make.start()
 
 ### 如何上傳影片
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MDssewmh-PA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MDssewmh-PA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109063924.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063924.2">## week5
+
+### 更改簡報標題
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Pim2JnCNAAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109063936.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063936.2">## week6
+
+### 如何上傳影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MDssewmh-PA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181109063940.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109063940.2">## week7
+
+### 如何上傳影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MDssewmh-PA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
